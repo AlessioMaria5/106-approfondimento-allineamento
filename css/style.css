@@ -11,5 +11,28 @@
     height: 300px;
     border: solid 2px red;
     text-align: center;
-    line-height: 250px;
+    line-height: 300px;
+    font-size: 100px;
+}
+
+
+#simulazione-header {
+
+    background-color: lightgrey;
+    border: solid 1px grey;
+    height: 100px; /* non necessaria per la funzionalità */
+}
+
+#logo-testo {
+
+    font-size: 24px;
+    color: green;
+    vertical-align: middle;
+}
+
+img {
+
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
 }
